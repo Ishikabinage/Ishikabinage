@@ -17,8 +17,6 @@ Hi there, I'm Ishika Binage! 👋
 
 - 🎓 B.E. Computer Science Graduate — Acharya Institute of Technology (2025)
 - 🤖 Passionate about **Machine Learning**, **Computer Vision** & **Flask**
-- 🔭 Currently working on **ASD Detection System** with 92%+ accuracy
-- 🌱 Learning **Deep Learning** & **Data Science**
 - 💼 Open to **ML Engineer / Python Developer** roles
 - 📍 Bangalore, Karnataka
 
